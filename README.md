@@ -2,7 +2,7 @@
 
 Author Tareq Galala
 
-Comparison of Naïve Bayes and Ensemble Boosted Trees Applied to Loan Defaults Dataset.
+Comparison of Naïve Bayes and Ensemble Boosted Trees Applied for Loan Defaults Dataset.
 
 Introduction and Motivation
 
