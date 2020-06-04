@@ -7,7 +7,7 @@ We have selected a binary classification problem where we aim to predict whether
 
 Note: Matlab code is available on request
 
-<br>br>
+<br><br>
 
 <img src="https://github.com/tgalala/Loan-Defaults-Machine-Learning-2-Algorithm-Poster/blob/master/images/roc.png?raw=true" height="300">
 
