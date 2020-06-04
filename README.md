@@ -9,4 +9,5 @@ Note: Matlab code is available on request
 
 <br>br>
 
-<img src="https://github.com/tgalala/Brexit--A-Visual-Analytics-Approach/blob/master/images/fig.jpg?raw=true" height="400">
+<img src="https://github.com/tgalala/Loan-Defaults-Machine-Learning-2-Algorithm-Poster/blob/master/images/roc.png?raw=true" height="300">
+
