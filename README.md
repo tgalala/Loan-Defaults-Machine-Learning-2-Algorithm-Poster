@@ -8,7 +8,7 @@ MATLAB
 Primary objective is to compare and contrast the performance of two Machine learning models—Naïve Bayes and Ensemble
 Boosted Trees. We have selected a binary classification problem where we aim to predict whether an individual will default on their loan obl igations given a set of features.
 
-<b>Script Files Description</b><br>
+<b>Script Files Description</b>
 1. Part1_stats_processing.m : Runs descriptive statistics, preprocessing and Under Sampling (Also includes Over Sampling code which was not used)
 2. Part2_BoostedTreesModelTuning.m : Runs the basic ensemble model & hyperparamter tuning for optimal boosted trees model using cross validation (10 Folds).
 3. Part3_NaiveBayesModelTuning.m : Runs basic Naive Bayes model & hyperparamter tuning for the optimal naive bayes model using cross validation (10 Folds)
